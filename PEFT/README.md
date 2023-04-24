@@ -12,6 +12,7 @@
 - *(2021-10-14)* **P-Tuning v2** : [Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](http://arxiv.org/abs/2110.07602)
 - *(2021-10-08)* **MAM**：[Towards a Unified View of Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2110.04366)✅
 - *(2022-05-11)* **IA^3** :[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](http://arxiv.org/abs/2205.05638)
+- *(2023-03-27)* **综述**：[Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](http://arxiv.org/abs/2303.15647)✅
 - ...
 
 #### PEFT系列相关框架
